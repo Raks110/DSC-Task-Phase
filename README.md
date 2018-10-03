@@ -1,2 +1,0 @@
-# FIFAPractise
-Practicing Data Science
